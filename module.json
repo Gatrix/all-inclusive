@@ -6,6 +6,9 @@
     "minimum": "12",
     "verified": "12"
   },
+  "url": "https://github.com/Gatrix/all-inclusive/tree/main",
+  "manifest": "https://github.com/Gatrix/all-inclusive/blob/main/module.json",
+  "download": "",   
   "packs": [
     {
       "name": "artefakty",
